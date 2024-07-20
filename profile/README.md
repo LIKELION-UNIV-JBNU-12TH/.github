@@ -23,3 +23,7 @@
   각종 스터디, 대회, 네트워킹 행사 등을 지원하고 있습니다. GROWL TO WORLD! 🦁
   </p>
 
+<br/>  
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=ff7f00)
