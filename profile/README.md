@@ -2,7 +2,7 @@
 ![LIKELION](https://github.com/user-attachments/assets/7d3483da-2a33-4fe0-8f87-d36bb911bb4b)
 
 
- ## LIKELION UNIV. JBNU 12TH 
+<h1 align="center">LIKELION UNIV. JBNU 12TH</h1>
 
 <p align="center">
   <img src="https://likelionjbnu.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6c21168c-ac1c-498a-a3ff-9e9fa8cda13a%2F%25EB%25A9%258B%25EC%259F%2581%25EC%259D%25B4%25EC%2582%25AC%25EC%259E%2590%25EC%25B2%2598%25EB%259F%25BC_%25EC%25A0%2584%25EB%25B6%2581%25EB%258C%2580_%25EB%25A1%259C%25EA%25B3%25A0.jpg?table=block&id=dc46625c-d05f-40e2-a3dd-e5b926168839&spaceId=99665ba5-4c9b-4ffd-92f0-95c9b068c24f&width=960&userId=&cache=v2.png" width="200" height="200" />
