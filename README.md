@@ -1,0 +1,2 @@
+# .github
+ABOUT LIKELION UNIV JBNU 12TH
