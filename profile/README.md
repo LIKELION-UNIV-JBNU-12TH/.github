@@ -1,7 +1,8 @@
 
 ![LIKELION](https://github.com/user-attachments/assets/7d3483da-2a33-4fe0-8f87-d36bb911bb4b)
 
-GROWL TO WORLD
+
+![멋쟁이사자처럼_전북대_로고](https://github.com/user-attachments/assets/75f1c5e6-c8ba-41d9-8b6a-9f7c9ce7e39f) GROWL TO WORLD
 
 
 국내외 121개의 대학, 4천여명이 활동하는 국내 최대 규모의 IT 창업 동아리입니다.
