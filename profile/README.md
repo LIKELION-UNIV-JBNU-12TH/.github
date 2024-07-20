@@ -2,8 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff7f00&height=200&)
 <br/>
 <br/>  
-<br/>  
-
 <h1 align="center">LIKELION UNIV. JBNU 12TH</h1>
 <br/>  
 <br/>  
