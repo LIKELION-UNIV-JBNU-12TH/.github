@@ -1,4 +1,6 @@
 
+![LIKELION](https://github.com/user-attachments/assets/560df597-5d81-4a55-a80a-ad4e4bb1f395)
+
 GROWL TO WORLD
 
 국내외 121개의 대학, 4천여명이 활동하는 국내 최대 규모의 IT 창업 동아리입니다.
